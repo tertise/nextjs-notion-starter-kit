@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'Flight Labs',
   domain: 'flight-labs.vercel.app',
   author: 'flight team',
 
