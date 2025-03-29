@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'flight team',
 
   // open graph metadata (optional)
-  description: 'flight의 공식 사이트입니다.',
+  description: '처인중학교의 항공과학 동아리 Flight입니다!',
 
 
   // mastodon: '#', // optional mastodon profile URL, provides link verification
